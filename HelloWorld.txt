@@ -1,2 +1,2 @@
-HELLO WORLD !!!
-This is my new Project
+Hello world!!!
+This is my new project
